@@ -39,7 +39,7 @@ El proyecto permite, para cada principio:
 1. Clonar el repositorio principal desde GitLab
 2. Abrir el proyecto en **Unity** (versión LTS recomendada)
 3. Abrir la escena principal del proyecto (SolidPrinciples)
-4. Ejecutar en el editor (`Play`)
+4. Ejecutar en el editor (`Play`) o correr una build.
 
 <img width="2188" height="1208" alt="imagen" src="https://github.com/user-attachments/assets/ac8fff54-ac0f-42d9-885f-8ecff2da3b69" />
 
@@ -50,7 +50,7 @@ El proyecto permite, para cada principio:
 
 Los ejemplos de código asociados a cada principio se encuentran organizados por principio y por tipo de ejemplo (bueno / malo), facilitando su lectura y comparación.
 
-Assets/Sources
+`Assets/Sources`
 
 Cada principio cuenta con implementaciones independientes para evitar acoplamientos innecesarios entre ejemplos.
 
